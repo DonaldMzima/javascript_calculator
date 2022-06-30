@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background: #023d6d;
+  background: #AB0003;
   color: white;
   padding: 1rem;
   text-align: center;
@@ -27,7 +27,7 @@ header {
   border: 1px solid #023d6d;
   border-radius: 10px;
   padding: 1rem;
-  color: #023d6d;
+  color: #A91101;
 }
 
 #results {
@@ -42,7 +42,7 @@ header {
   padding: 0.15rem;
   margin: auto;
   display: block;
-  color: #023d6d;
+  color: #E60026;
   text-align: center;
 }
 
@@ -52,7 +52,7 @@ header {
 
 #calculator button {
   font: inherit;
-  background: #023d6d;
+  background: #AB0003;
   color: white;
   border: 1px solid #023d6d;
   padding: 1rem;
@@ -76,4 +76,12 @@ header {
 #calc-actions {
   margin-top: 1rem;
   text-align: center;
+  color:purple;
+}
+p {
+  color: #33006F;
+  padding: 1rem;
+  text-align: center;
+  width: 100%;
+}
 }
