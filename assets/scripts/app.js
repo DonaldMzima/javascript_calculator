@@ -1,4 +1,16 @@
-let currentResult = 10;  
-currentResult = currentResult + 10;
+const userInput = 22;
+let result;
 
-console.log(currentResult);
+result = userInput + 18;
+
+result = result - 3;
+result = result * 15;
+result = result / 4;
+
+alert (result);
+alert (userInput);
+
+
+
+
+
