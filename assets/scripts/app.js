@@ -1,18 +1,103 @@
-let userInput = 23;
-let results;
-
-results = 18 + userInput;
-
-results = results - 3;
-results = results * 18;
-results = results / 4;
-
-alert(results);
-alert(userInput);
+const defaultResults = 0;
+const curruntResults = defaultResults;
 
 
 
-function greetUser(name) {
-    alert(‘Hi ‘ + name);
+
+
+{
+    var name= prompt();
+    if(name === "mzima"){
+    console.log("yes");
+    }else if(name === "tshidi"){
+        console.log("welcome tshidi");
+    } else{
+        console.log("fotsek");
     }
-    greetUser(tshidiso); 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
